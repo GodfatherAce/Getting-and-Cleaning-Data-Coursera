@@ -2,7 +2,7 @@
 John Hopkins Specialization
 
 
-This repo is answer to Getting and Cleaning Data Project. It comprises of the following things:
+This repo comprises of the solution to Getting and Cleaning Data Project. It comprises of the following things:
 
 Readme.md ---> Basic Read Me
 
